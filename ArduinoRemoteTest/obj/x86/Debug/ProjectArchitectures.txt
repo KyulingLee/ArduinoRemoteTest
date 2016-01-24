@@ -1,0 +1,1 @@
+C:\Users\BongKyu\documents\visual studio 2015\Projects\ArduinoRemoteTest\ArduinoRemoteTest\ArduinoRemoteTest.csproj;x86
